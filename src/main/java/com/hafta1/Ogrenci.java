@@ -25,7 +25,7 @@ public class Ogrenci {
         System.out.println(ad+"-"+numara+"-"+bolum);
     }
     
-    
+     
     
     
 }
